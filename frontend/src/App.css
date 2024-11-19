@@ -1,0 +1,63 @@
+.invalid_input {
+  color: red;
+  margin-top: -20px;
+  display: block;
+  margin-left: 20px;
+}
+.create-user {
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button {
+    margin-top: 300px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.user{
+    margin-left: 35%;
+    margin-top: 75px;
+  }
+.user_h1 {
+    padding-left: 10%;
+}
+
+.inputbox {
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    border: 1px solid skyblue;
+}
+.create_user_btn {
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 2px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.user-list {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .user-list ul li {
+    width: 200px;
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+  }
+  .user-list ul {
+    margin: 0px;
+  }
